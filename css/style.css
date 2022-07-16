@@ -18,9 +18,9 @@ body     {
 
 /* styling our header */
 header   {
-  background: #222;
+  background: rgb(0, 0, 0);
   color: #FFF;
-  padding: 20px 30px;
+  padding: 10px 10px 10px 10px;
 }
 
 /* logo */
@@ -31,7 +31,7 @@ header   {
   width: 49%;
 }
 #logo img    {
-  width: 50px;
+  width: 100px;
   border-radius: 3px;
   margin-right: 8px;
   vertical-align: middle;
